@@ -1,0 +1,5 @@
+打開config.json
+  id1填入要增測的頻道
+  id2填入要回報手殘的頻道
+  word填入要偵測的字詞
+  token填入你的bot token
